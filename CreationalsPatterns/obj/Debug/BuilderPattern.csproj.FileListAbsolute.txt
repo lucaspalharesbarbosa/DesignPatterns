@@ -1,0 +1,7 @@
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\bin\Debug\CreationalsPatterns.exe.config
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\bin\Debug\CreationalsPatterns.exe
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\bin\Debug\CreationalsPatterns.pdb
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\obj\Debug\CreationalsPatterns.exe
+C:\Users\Lucas Palhares\source\repos\DesignPatterns\CreationalsPatterns\obj\Debug\CreationalsPatterns.pdb
